@@ -14,10 +14,6 @@ C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\obj\Debug\net5.0\ref\User Interface.dll
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\obj\Debug\net5.0\User Interface.pdb
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\obj\Debug\net5.0\User Interface.genruntimeconfig.cache
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\DataAccess.deps.json
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\DataAccess.runtimeconfig.json
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\DataAccess.exe
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\User Interface\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll

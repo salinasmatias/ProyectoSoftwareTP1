@@ -1,7 +1,3 @@
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\DataAccess.deps.json
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\DataAccess.runtimeconfig.json
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
-C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\DataAccess.exe
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\Logic.deps.json
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\Logic.dll
 C:\Users\kerne\Desktop\Proyecto Software TP 1 Matías Salinas\Salinas Matías PS TP1\Cine Gba\Logic\bin\Debug\net5.0\ref\Logic.dll
